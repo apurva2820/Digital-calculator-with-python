@@ -1,4 +1,4 @@
-# Digital-calculatorimport tkinter as tk
+# Digital-calculatorimport tkinter
 import time
 # Function to update the label text with the current time
 def update_time():
